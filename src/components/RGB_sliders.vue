@@ -13,7 +13,7 @@
       <button type='button' @click='red = 137, green = 146, blue = 0, transparency = 0.14, sendColors()'>Old</button>
       <br><br>
       Symulacje: <button type="button" @click='zachod'>Symulacja zachodu</button>
-      <button type="button" @click='wschod'>Symulacja wschodu</button>
+      <button type="button" @click='wschod'>Symulacja wschoodu</button>
    </div>
 </template>
 
